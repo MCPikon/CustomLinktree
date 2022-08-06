@@ -2,4 +2,4 @@
 
 Un clon de Linktree creado con HTML5 y TailwindCSS
 
-![CustomLinktree](assets\website-screenshot.jpg)
+![CustomLinktree](assets/website-screenshot.jpg)
